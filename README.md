@@ -8,3 +8,4 @@ ____________________________________________
 •estou desenvolvendo na linguagem JavaScript
 •ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+![](https://github.com/user-attachments/assets/de3f673e-6334-43d4-8c42-357611f9b316)
